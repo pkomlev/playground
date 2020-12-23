@@ -1,3 +1,4 @@
+#include <boost/core/noncopyable.hpp>
 #include <gflags/gflags.h>
 #include <glog/logging.h>
 
