@@ -16,6 +16,11 @@ local_repository(
 )
 
 local_repository(
+  name = "com_github_google_double_conversion",
+  path = "third_party/double-conversion",
+)
+
+local_repository(
   name = "com_github_nelhage_rules_boost",
   path = "third_party/rules_boost",
 )

@@ -13,3 +13,7 @@
 [submodule "third_party/rules_boost"]
 	path = third_party/rules_boost
 	url = https://github.com/nelhage/rules_boost
+
+[submodule "third_party/double-conversion"]
+	path = third_party/double-conversion
+	url = https://github.com/google/double-conversion
