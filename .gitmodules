@@ -13,3 +13,7 @@
 [submodule "third_party/rules_boost"]
 	path = third_party/rules_boost
 	url = https://github.com/nelhage/rules_boost
+	
+[submodule "third_party/folly"]
+	path = third_party/folly
+	url = https://github.com/facebook/folly
