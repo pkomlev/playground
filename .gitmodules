@@ -17,3 +17,6 @@
 [submodule "third_party/double-conversion"]
 	path = third_party/double-conversion
 	url = https://github.com/google/double-conversion
+[submodule "third_party/folly"]
+	path = third_party/folly
+	url = https://github.com/facebook/folly
