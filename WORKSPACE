@@ -27,3 +27,9 @@ local_repository(
 
 load("@com_github_nelhage_rules_boost//:boost/boost.bzl", "boost_deps")
 boost_deps()
+
+new_local_repository(
+  name = "com_github_libfmt_fmt",
+  path = "third_party/fmt",
+  build_file = "third_party/rules_facebook/libfmt.BUILD",
+)
