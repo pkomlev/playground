@@ -6,5 +6,6 @@ cc_binary(
         "@boost//:core",
         "@com_github_glog_glog//:glog",
         "@com_github_libfmt_fmt//:fmt",
+        "@com_github_facebook_folly//:base",
     ],
 )
